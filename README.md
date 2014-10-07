@@ -15,6 +15,7 @@ humanitarian-openstack
   * deployment/ - Contains scripts to deploy webservers, databases, haproxy
   * libcloud.conf - Template file to include cloud provider details for libcloud
   * case-1.py - Implements code for usecase - 2 webservers with a load balancer and a database node
+  * Ushahidi deployment instructions: step-by-step how to deploy Ushahidi on Rackspace cloud using orchestration templates.
     
   To run the code:
 
